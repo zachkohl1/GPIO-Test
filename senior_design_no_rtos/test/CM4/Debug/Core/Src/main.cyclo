@@ -1,0 +1,13 @@
+../Core/Src/main.c:116:5:main	2
+../Core/Src/main.c:183:13:MX_ETH_Init	2
+../Core/Src/main.c:232:13:MX_FDCAN1_Init	2
+../Core/Src/main.c:285:13:MX_FDCAN2_Init	2
+../Core/Src/main.c:338:13:MX_LTDC_Init	4
+../Core/Src/main.c:420:13:MX_QUADSPI_Init	2
+../Core/Src/main.c:455:13:MX_SAI2_Init	3
+../Core/Src/main.c:536:13:MX_SDMMC1_MMC_Init	2
+../Core/Src/main.c:567:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:615:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:647:6:MX_FMC_Init	2
+../Core/Src/main.c:698:13:MX_GPIO_Init	1
+../Core/Src/main.c:737:6:Error_Handler	1

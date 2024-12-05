@@ -1,0 +1,7 @@
+../Core/Src/expander.c:21:19:Expander_Init	24	static
+../Core/Src/expander.c:68:19:Expander_ConfigureGPIO	24	static
+../Core/Src/expander.c:84:19:Expander_ConfigurePullUps	24	static
+../Core/Src/expander.c:100:19:Expander_WriteRegister	24	static
+../Core/Src/expander.c:146:19:Expander_ReadRegister	24	static
+../Core/Src/expander.c:187:19:Expander_ReadGPIO	32	static
+../Core/Src/expander.c:202:19:Expander_WriteGPIO	24	static
